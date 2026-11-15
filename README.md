@@ -10,10 +10,9 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 ## 👨‍🏫 Equipe
 - **Coordenador:** Prof. Dr. Raphael Pereira  
 - **Monitores:**  
-  - Alanna Rayssa  
-  - Beatriz de Souza  
-  - Hevellyn Alves  
-  - Thiago dos Santos  
+  - Alysson Augusto
+  - Anderson Santos 
+  - Cauã Cruz  
 
 ---
 
@@ -25,9 +24,8 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 ### Protótipo de baixa fidelidade
 - [Acesse no canva](https://www.canva.com/design/DAG5qNYqJZ4/JYm_CN-yA5eM3i1b5T13PQ/edit?utm_content=DAG5qNYqJZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-
 ### Link do Slide 
-- [Acesse o slide no canva](https://www.canva.com/design/DAG2jJmxg_k/d3i-oYkVYD3pUId7Ff3kKQ/edit?utm_content=DAG2jJmxg_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- [Acesse o slide no canva](https://canva.link/6lfqmlrbqloi9gm).
 
 ### 🎨 Syle Guide 
 Adicionar aqui link do style guide que vamos usar no curso
