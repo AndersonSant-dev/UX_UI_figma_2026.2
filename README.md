@@ -10,7 +10,7 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 ## 👨‍🏫 Equipe
 - **Coordenador:** Prof. Dr. Raphael Pereira  
 - **Monitores:**  
-  - Alysson Augusto
+  - Alysson Santos
   - Anderson Santos 
   - Cauã Cruz  
 
