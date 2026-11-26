@@ -19,7 +19,7 @@ Este repositório reúne conteúdos, materiais de apoio e links úteis para auxi
 ## 📚 Guia de Recursos
 
 ### Protótipo figma
-- [Acesse o projeto no figma](https://www.figma.com/design/qDnXKETmnHU8dU5fe2M5vF/ITAfy---XII-SEMAC?node-id=1-2&p=f&t=5pl7ZiCf1jbArkI1-0)
+- [Acesse o projeto no figma](https://www.figma.com/design/ZbbTo1M76tck08B5JnZ0HV/ITAFY---XII-SEMAC-?node-id=4-2310&t=cWLQxKgYtiCN7wAb-0)
 
 ### Protótipo de baixa fidelidade
 - [Acesse no canva](https://www.canva.com/design/DAG5qNYqJZ4/JYm_CN-yA5eM3i1b5T13PQ/edit?utm_content=DAG5qNYqJZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
