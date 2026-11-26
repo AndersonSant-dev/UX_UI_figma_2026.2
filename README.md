@@ -1,4 +1,4 @@
-# SEMAC UX_UI_figma_2025.2 🎨✨
+# SEMAC UX_UI_figma_2026.2 🎨✨
 
 
 Minicurso de **User Experience (UX)** e **User Interface (UI)** em protótipos com **Figma**
